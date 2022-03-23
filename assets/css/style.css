@@ -1,0 +1,118 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.error {
+  color: #c62828;
+}
+
+.navigacijas {
+  display: none;
+}
+
+.aside {
+  min-height: 600px;
+}
+
+.cart {
+  cursor: pointer;
+}
+
+/* Margin classes */
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.mb-3 {
+  margin-bottom: 3rem;
+}
+
+.mr-3 {
+  margin-right: 3rem;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.py-3 {
+  padding: 3rem 0;
+}
+
+.parallax-container {
+  height: 99vh;
+}
+
+.scrollToTop {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  right: 0;
+  margin: 20px 30px;
+  z-index: 19;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  color: #fff;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#categoryPlus {
+  cursor: pointer;
+}
+
+#brandPlus {
+  cursor: pointer;
+}
+
+#pricePlus {
+  cursor: pointer;
+}
+
+.card .card-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+#btnHolder {
+  height: 55vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.seeMore {
+  display: block;
+}
+
+.center-align-products {
+  display: block;
+  text-align: center;
+}
+
+.malaSlika {
+  display: none;
+}
+
+#addBtnDiv {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
